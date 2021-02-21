@@ -1,1 +1,1 @@
-# sunsky-importer-opencart
+# Sunsky Importer OcMod for Opencart
